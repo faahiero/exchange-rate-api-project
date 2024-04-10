@@ -1,5 +1,7 @@
+import java.io.IOException;
+
 public class Menu {
-    public static void ShowMenu() {
+    public static void ShowMenu(){
         System.out.println("*********************************************");
         System.out.println("Seja bem-vindo(a) ao Conversor de Moedas!");
         System.out.println();

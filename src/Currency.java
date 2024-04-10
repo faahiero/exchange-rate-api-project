@@ -1,4 +1,6 @@
-public class Currency {
+import java.io.InputStream;
+
+public class Currency{
     public String result;
     public String documentation;
     public String terms_of_use;
